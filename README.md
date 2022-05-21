@@ -1,6 +1,6 @@
 - 👋 Hi, we are @synchronydevs
 - 👀 We are interested in videogames
-- 🌱 We are currently learning for one day being ableto create our own videogame
+- 🌱 We are currently learning for one day being able to create our own videogame
 - 📫 How to reach us: synchronydevs@gmail.com
 
 <!---
